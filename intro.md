@@ -2,6 +2,11 @@
 
 Welcome to the JupyterBook for the session ["INV51D - Voices from the Global Open Science Community: Showcasing Progress, Challenges, and Lessons Learned"](https://agu.confex.com/agu/fm23/meetingapp.cgi/Person/65539) at the 2023 AGU Fall Meeting. 
 
+```{note}
+During the session, you can add your questions for the discussion period (after all speakers have finished) to [this Google Doc](https://docs.google.com/document/d/151hq9eXMDiWBPwcfit1zIn7lbF204aSqVhjw-VSkjZA/edit?usp=sharing)
+
+__Link will be editable when the meeting starts__
+```
 ### About the session
 
 Open science can enable truly inclusive, accessible, and reproducible science. As open science becomes widely adopted, it’s important to take the time to meet as a community and share our knowledge, tools, best practices, and challenges so that we can best learn from and support one another. This session will bring together practitioners from the global open science community in fruitful discussions about their experiences and barriers to open science.
