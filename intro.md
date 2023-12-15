@@ -5,7 +5,7 @@ Welcome to the JupyterBook for the session ["INV51D - Voices from the Global Ope
 ```{note}
 During the session, you can add your questions for the discussion period (after all speakers have finished) to [this Google Doc](https://docs.google.com/document/d/151hq9eXMDiWBPwcfit1zIn7lbF204aSqVhjw-VSkjZA/edit?usp=sharing)
 
-__Link will be editable when the meeting starts__
+*Link will be editable when the meeting starts*
 ```
 ### About the session
 
