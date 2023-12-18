@@ -3,9 +3,7 @@
 Welcome to the JupyterBook for the session ["INV51D - Voices from the Global Open Science Community: Showcasing Progress, Challenges, and Lessons Learned"](https://agu.confex.com/agu/fm23/meetingapp.cgi/Person/65539) at the 2023 AGU Fall Meeting. 
 
 ```{note}
-During the session, you can add your questions for the discussion period (after all speakers have finished) to [this Google Doc](https://docs.google.com/document/d/151hq9eXMDiWBPwcfit1zIn7lbF204aSqVhjw-VSkjZA/edit?usp=sharing)
-
-*Link will be editable when the meeting starts*
+Some notes were taken during the session on [this Google Doc](https://docs.google.com/document/d/151hq9eXMDiWBPwcfit1zIn7lbF204aSqVhjw-VSkjZA/edit?usp=sharing)
 ```
 ### About the session
 
